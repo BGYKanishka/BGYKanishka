@@ -29,18 +29,6 @@ My work focuses on designing and developing real-world applications that solve p
   React, Node.js, Spring Boot based applications
 
 ---
-## 🚀 Systems in Progress
-
-- 🏷️ RFID Inventory System → Real-time tracking using RFID 
-- 🤖 AI Vision System → Object detection for retail automation 
-- 🌐 Distributed Order System → Microservices architecture 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BGYKanishka&theme=nightowl&hide_border=true" height="180"/>
-</p>
-
----
 
 ## 🛠️ Tech Stack
 <p align="left">
