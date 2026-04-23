@@ -16,16 +16,13 @@ My work focuses on designing and developing real-world applications that solve p
 
 ## ⚙️ Core Focus Areas
 
-- 👁️ Computer Vision Systems  
-  AI-based detection, automation, and real-time visual processing
-
-- 🔌 IoT & Embedded Systems  
-  RFID systems, sensors, and hardware-software integration
-
 - 🧩 Distributed System Design  
   Scalable backend systems and microservice architecture
 
 - 💻 Full Stack Development  
   React, Node.js, Spring Boot based applications
+
+- 🔌 IoT & Embedded Systems  
+  RFID systems, sensors, and hardware-software integration
 
 ---
